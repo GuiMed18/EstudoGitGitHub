@@ -20,3 +20,9 @@ Puxa as alterações do repositório remoto para o local (Busca e mescla)
 
 ### Git push
 Envia as alterações do local para o remoto
+
+## O que é GitHub?
+
+Plataforma de hospedagem de código para controle de versão com o GIT
+
+Mascote -> OctoCat
